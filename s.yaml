@@ -1,11 +1,12 @@
 payload:
-  - '69shuba.com'
-  - 'godamh.com'
-  - 'twkan.com'
-  - 'happymh.com'
-  - 'm.happymh.com'
-  - 'yfamilys.com'
-  - 'linux.do'
-  - 'bgm.tv'
-  - 'www.69shuba.com'
-  - 'www.cool18.com'
+  - DOMAIN,69shuba.com
+  - DOMAIN,godamh.com
+  - DOMAIN,twkan.com
+  - DOMAIN,happymh.com
+  - DOMAIN,m.happymh.com
+  - DOMAIN,yfamilys.com
+  - DOMAIN,linux.do
+  - DOMAIN,bgm.tv
+  - DOMAIN,www.69shuba.com
+  - DOMAIN,www.cool18.com
+  - DOMAIN,image.tmdb.org
